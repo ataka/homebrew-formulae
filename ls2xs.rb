@@ -4,7 +4,7 @@ class Ls2xs < Formula
   homepage "https://github.com/ataka/LocalizableStrings2XibStrings"
   url "https://github.com/ataka/ls2xs/archive/0.0.2.tar.gz"
   version "0.0.2"
-  sha256 "a644361b451dabac966ce6e87739d7015900f825a29f0141c29e07cea7dc02c0"
+  sha256 "195fd0e80af962a99ddb3a48362b6eb76453489abedfc1fce4f7c3e6ae0848a5"
 
   def install
     system "make prefix_install PREFIX=#{prefix}"

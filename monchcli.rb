@@ -1,7 +1,7 @@
 require "formula"
 
 class Monchcli < Formula
-  desc "A command line tool that "
+  desc "A command line tool to simplify the review request"
   homepage "https://github.com/ataka/MonchCLI"
   url "https://github.com/ataka/MonchCLI/archive/0.5.0.tar.gz"
   version "0.5.0"

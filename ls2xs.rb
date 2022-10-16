@@ -5,7 +5,7 @@ class Ls2xs < Formula
   homepage "https://github.com/ataka/ls2xs"
   url "https://github.com/ataka/ls2xs/archive/0.4.0.tar.gz"
   version "0.4.0"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "73129ba4d4c7c52e302c8a2bebf5db9829c0bfc4a0db0a47cd07805d0acbb679"
   license "MIT"
 
   def install
